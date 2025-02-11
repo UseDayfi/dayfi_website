@@ -406,9 +406,9 @@ class FeatureSection extends StatelessWidget {
                 },
               ),
               BoxItem(
-                title: "Virtual cards just\ngot better!",
+                title: "Receiving payments just\ngot better!",
                 description:
-                    "Easily create and manage virtual cards for secure online and in-store purchases. Enjoy the flexibility of using a card without needing a physical card, all while keeping your financial information secure.",
+                    "Effortlessly receive payments through NFC tap and scan-to-pay. Enjoy seamless, contactless payments and secure digital transactions, just fast, safe, and secure transactions for your digital assets",
                 color: Color(0xfffce9b3),
                 imageUrl: "assets/images/oneplus.png",
                 onTap: () {
@@ -416,9 +416,9 @@ class FeatureSection extends StatelessWidget {
                 },
               ),
               BoxItem(
-                title: "Swap Currencies\nQuickly and Securely",
+                title: "Swap assets\nQuickly and Securely",
                 description:
-                    "Our platform allows you to quickly and securely swap between various currencies, so you can easily make transactions and manage your finances in different currencies.",
+                    "Our platform allows you to quickly and securely swap between various assets, so you can easily make transactions and manage your finances in different currencies.",
                 color: Color(0xffafecfa),
                 imageUrl: "assets/images/oneplus.png",
                 onTap: () {
