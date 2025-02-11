@@ -107,7 +107,7 @@ class NavBar extends StatelessWidget {
               text: TextSpan(
                 text: "dayfi",
                 style: GoogleFonts.spaceGrotesk(
-                  fontWeight: FontWeight.bold,
+                  fontWeight: FontWeight.w900,
                   fontSize: 24,
                 ),
               ),
@@ -209,7 +209,7 @@ class HeroSection extends StatelessWidget {
               textAlign: TextAlign.center,
               text: TextSpan(
                 text:
-                    'Trade coins, make\npayments with the DayFi\nWeb3 ecosystem',
+                    'Trade coins, make\npayments with the DayFi\nWeb3 ecosystem.',
                 style: GoogleFonts.spaceGrotesk(
                   fontSize: 72,
                   height: 1.05,
@@ -1007,8 +1007,8 @@ class FooterSection extends StatelessWidget {
                           text: TextSpan(
                             text: "dayfi",
                             style: GoogleFonts.spaceGrotesk(
-                              fontWeight: FontWeight.bold,
-                              fontSize: 20,
+                              fontWeight: FontWeight.w900,
+                              fontSize: 24,
                             ),
                           ),
                         ),
